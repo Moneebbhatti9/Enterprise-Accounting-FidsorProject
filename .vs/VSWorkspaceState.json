@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\my-app",
+    "\\my-app\\src",
+    "\\my-app\\src\\Components",
+    "\\my-app\\src\\pages",
+    "\\my-app\\src\\pages\\reports"
+  ],
+  "SelectedNode": "\\my-app\\src\\pages\\reports\\DetailedReporting.js",
+  "PreviewInSolutionExplorer": false
+}

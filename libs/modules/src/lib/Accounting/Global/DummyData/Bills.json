@@ -1,0 +1,102 @@
+[
+  {
+    "id": "64ff051beed7308ce5322c62",
+    "status": "Unpaid",
+    "date": "2019-01-02",
+    "number": 56530,
+    "name": "Phone Bill",
+    "dueDate": "2019-05-25",
+    "amountDue": 81973.32,
+    "currencyType": "USD"
+  },
+  {
+    "id": "64ff051bc695a9376649f813",
+    "status": "Unpaid",
+    "date": "2023-08-22",
+    "number": 48526,
+    "name": "Water Supply Bill",
+    "dueDate": "2016-01-30",
+    "amountDue": 45076.39,
+    "currencyType": "USD"
+  },
+  {
+    "id": "64ff051b26e0a9d17b7027fc",
+    "status": "Paid",
+    "date": "2014-06-04",
+    "number": 88221,
+    "name": "Electricity Bill",
+    "dueDate": "2014-06-15",
+    "amountDue": 43892.58,
+    "currencyType": "USD"
+  },
+  {
+    "id": "64ff051b3bc060fa456e4ae2",
+    "status": "Unpaid",
+    "date": "2015-08-16",
+    "number": 22951,
+    "name": "Gas Bill",
+    "dueDate": "2014-08-08",
+    "amountDue": 48658.7492,
+    "currencyType": "USD"
+  },
+  {
+    "id": "64ff051ba99dad96ec6c6bd2",
+    "status": "Paid",
+    "date": "2019-02-23",
+    "number": 66407,
+    "name": "Internet Bill",
+    "dueDate": "2021-01-29",
+  "amountDue": 33010.29,
+    "currencyType": "USD"
+  },
+  {
+    "id": "64ff051b0678ad32feffd516",
+    "status": "Unpaid",
+    "date": "2014-04-26",
+    "number": 52932,
+    "name": "Cable TV Bill",
+    "dueDate": "2022-02-22",
+    "amountDue": 29843.19,
+    "currencyType": "USD"
+  },
+  {
+    "id": "64ff051bb5af4e0f8f8588dd",
+    "status": "Unpaid",
+    "date": "2021-04-30",
+    "number": 37779,
+    "name": "Property Tax Bill",
+    "dueDate": "2022-11-03",
+    "amountDue": 59803.40,
+    "currencyType": "USD"
+  },
+  {
+    "id": "64ff051b13ae283842519898",
+    "status": "Paid",
+    "date": "2016-09-10",
+    "number": 83919,
+    "name": "Garbage Collection Bill",
+    "dueDate": "2015-01-09",
+    "amountDue": 74641.438,
+    "currencyType": "USD"
+  },
+  {
+    "id": "64ff051bad27e09e372d924c",
+    "status": "Unpaid",
+    "date": "2019-12-10",
+    "number": 60456,
+    "name": "Medical Insurance Bill",
+    "dueDate": "2015-04-20",
+    "amountDue": 20809.8981,
+    "currencyType": "USD"
+  },
+  {
+    "id": "64ff051beeca2f006de5f4ad",
+    "status": "Unpaid",
+    "date": "2014-12-19",
+    "number": 31610,
+    "name": "Home Loan Payment",
+    "dueDate": "2022-08-24",
+    "amountDue": 66581.2937,
+    "currencyType": "USD"
+  }
+]

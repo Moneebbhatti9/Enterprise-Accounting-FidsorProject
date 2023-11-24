@@ -1,0 +1,14 @@
+[
+  {
+    "id": "21d9d662-edd3-498e-9175-a55c52b5a4fc",
+    "vendorType": "Regular",
+    "view": "Regular",
+    "status":"Active"
+  },
+  {
+    "id": "89h9i228-5a88-4g8e-h567-8d8a8ef0909g",
+    "vendorType": "Contractor",
+    "view": "Contractor",
+    "status":"Inactive"
+  }
+]

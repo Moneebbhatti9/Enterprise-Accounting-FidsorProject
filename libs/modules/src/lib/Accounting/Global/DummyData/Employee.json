@@ -1,0 +1,57 @@
+[
+  {
+    "id": "9c67f816-9e5e-4f64-86f6-2e9e68656b71",
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "description": "Active",
+    "type": "Full Time",
+    "mobile": "+923338697336",
+    "hireDate": "2021-06-15",
+    "salary": "60000",
+    "status": "Active" 
+  },
+  {
+    "id": "d8eac4e6-63c4-4eb5-9169-8f001d2a8933",
+    "name": "Jane Smith",
+    "email": "jane.smith@example.com",
+    "description": "Tax details missing",
+    "type": "Part Time",
+    "mobile": "+923456789012",
+    "hireDate": "2020-08-20",
+    "salary": "40000",
+    "status": "Active"  
+  },
+  {
+    "id": "c4892000-0449-4dc0-97b7-ecb909f3b6b1",
+    "name": "Mike Johnson",
+    "email": "mike.johnson@example.com",
+    "description": "On Leave",
+    "type": "Contractor",
+    "mobile": "+921234567890",
+    "hireDate": "2022-01-10",
+    "salary": "80000",
+    "status": "On Leave" 
+  },
+  {
+    "id": "f64a13d2-4a98-4c87-8c91-56e93bbd131d",
+    "name": "Sarah Brown",
+    "email": "sarah.brown@example.com",
+    "description": "Tax details missing",
+    "type": "Full Time",
+    "mobile": "+925550123456",
+    "hireDate": "2019-11-25",
+    "salary": "70000",
+    "status": "Active"  
+  },
+  {
+    "id": "f12ae75a-17c5-44e4-90ed-c942f5d4370d",
+    "name": "David Lee",
+    "email": "david.lee@example.com",
+    "description": "Dismissed",
+    "type": "Freelancer",
+    "mobile": "+922112345678",
+    "hireDate": "2023-02-18",
+    "salary": "55000",
+    "status": "Dismissed"  
+  }
+]

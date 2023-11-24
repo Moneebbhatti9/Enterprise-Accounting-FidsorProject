@@ -1,0 +1,17 @@
+/* Add this CSS to your component's CSS or a separate CSS file */
+.counter {
+  background-color: #0a8fdc; /* Change the background color to your preference */
+  color: white;
+  border-radius: 50%;
+  width: 20px; /* Adjust the width and height as needed */
+  height: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  top: 46%;
+  right: 0;
+  transform: translateY(-50%);
+  margin-right: 5%;
+  margin-left: 5%;
+}

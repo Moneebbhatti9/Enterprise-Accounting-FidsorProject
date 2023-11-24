@@ -1,0 +1,91 @@
+[
+  {
+    "id": "64ff051bc295f2e65a3c250d",
+    "name": "John Man",
+    "accountType": "Savings",
+    "DetailType": "Personal",
+    "balance": "8,87,238.00",
+    "bankBalance": "2022-09-10"
+  },
+
+  {
+    "id": "72ab345de123f4c98b2a567e",
+    "name": "Alice Smith",
+    "accountType": "Checking",
+    "DetailType": "Business",
+    "balance": "12,345.67",
+    "bankBalance": "2022-09-10"
+  },
+
+  {
+    "id": "98cde786f532a1b054e937de",
+    "name": "Emily Johnson",
+    "accountType": "Savings",
+    "DetailType": "Personal",
+    "balance": "42,987.55",
+    "bankBalance": "2022-09-10"
+  },
+
+  {
+    "id": "45def890ab678c321e456dab",
+    "name": "David Lee",
+    "accountType": "Checking",
+    "DetailType": "Business",
+    "balance": "23,450.75",
+    "bankBalance": "2022-09-10"
+  },
+
+  {
+    "id": "09fabc456d321e890ab678de",
+    "name": "Sarah Clark",
+    "accountType": "Savings",
+    "DetailType": "Personal",
+    "balance": "65,789.12",
+    "bankBalance": "2022-09-10"
+  },
+
+  {
+    "id": "23fgh567eab890cd123a456de",
+    "name": "Michael Johnson",
+    "accountType": "Checking",
+    "DetailType": "Business",
+    "balance": "34,567.89",
+    "bankBalance": "2022-09-10"
+  },
+
+  {
+    "id": "34ijkl678fgh901de234b567",
+    "name": "Jessica Brown",
+    "accountType": "Savings",
+    "DetailType": "Personal",
+    "balance": "9,876.54",
+    "bankBalance": "2022-09-10"
+  },
+
+  {
+    "id": "56mno789pqr123stuv456wx",
+    "name": "Kevin Davis",
+    "accountType": "Checking",
+    "DetailType": "Business",
+    "balance": "76,543.21",
+    "bankBalance": "2022-09-10"
+  },
+
+  {
+    "id": "89yza123bcd456efg78h901i",
+    "name": "Laura Wilson",
+    "accountType": "Savings",
+    "DetailType": "Personal",
+    "balance": "21,345.67",
+    "bankBalance": "2022-09-10"
+  },
+
+  {
+    "id": "12jkl345mno678pqr901stu",
+    "name": "Chris Martin",
+    "accountType": "Checking",
+    "DetailType": "Business",
+    "balance": "55,432.10",
+    "bankBalance": "2022-09-10"
+  }
+]

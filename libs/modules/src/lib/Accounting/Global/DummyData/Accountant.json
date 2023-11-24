@@ -1,0 +1,28 @@
+[
+    {
+      "id": "fd098e41-8f3a-4fb2-8c7d-52c3ac1721a1",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "a4e5cf87-6cbb-4f5d-9f35-74d732785e2a",
+      "name": "Jane Smith",
+      "email": "jane.smith@example.com"
+    },
+    {
+      "id": "b9f5a368-7250-4ab4-b08d-0f437c8e48d9",
+      "name": "Michael Johnson",
+      "email": "michael.johnson@example.com"
+    },
+    {
+      "id": "c4e7f2bf-0a68-4430-8219-84a0a15a415d",
+      "name": "Sarah Davis",
+      "email": "sarah.davis@example.com"
+    },
+    {
+      "id": "de25d7c5-1f28-4e0f-84d3-29124f85075b",
+      "name": "Robert Anderson",
+      "email": "robert.anderson@example.com"
+    }
+  ]
+  

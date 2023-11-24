@@ -1,0 +1,102 @@
+[
+  {
+    "id": "1f6be48a-540a-4c67-bd7f-8a64a4171e00",
+    "customerName": "John Doe",
+    "invoicenumber": "INV-001",
+    "status": "Sent",
+    "date": "2023-09-25",
+    "dueDate": "2023-10-25",
+    "amount": 1500.0,
+    "currencyType": "USD"
+  },
+  {
+    "id": "ec57bb74-5f52-42a3-a12b-74aefa45bd02",
+    "customerName": "Jane Smith",
+    "invoicenumber": "INV-002",
+    "status": "Paid",
+    "date": "2023-09-20",
+    "dueDate": "2023-10-20",
+    "amount": 2000.0,
+    "currencyType": "CAD"
+  },
+  {
+    "id": "dbedc890-189b-4f4e-95a6-9a0a9a2d4f21",
+    "customerName": "Mark Johnson",
+    "invoicenumber": "INV-003",
+    "status": "Declined",
+    "date": "2023-09-18",
+    "dueDate": "2023-10-18",
+    "amount": 1200.0,
+    "currencyType": "UAD"
+  },
+  {
+    "id": "a8330ec7-fc82-45b3-8836-3e7a108a987a",
+    "customerName": "Sarah Lee",
+    "invoicenumber": "INV-004",
+    "status": "Cancelled",
+    "date": "2023-09-15",
+    "dueDate": "2023-10-15",
+    "amount": 1800.0,
+    "currencyType": "EUR"
+  },
+  {
+    "id": "52080a4f-5a68-4e50-84e3-9b5e745a5b02",
+    "customerName": "Michael Brown",
+    "invoicenumber": "INV-005",
+    "status": "Sent",
+    "date": "2023-09-12",
+    "dueDate": "2023-10-12",
+    "amount": 2100.0,
+    "currencyType": "USD"
+  },
+  {
+    "id": "a8b6808d-cbdb-4c73-8d80-93230a3c90e7",
+    "customerName": "Anna Davis",
+    "invoicenumber": "INV-006",
+    "status": "Paid",
+    "date": "2023-09-08",
+    "dueDate": "2023-10-08",
+    "amount": 1900.0,
+    "currencyType": "CAD"
+  },
+  {
+    "id": "72a99255-1b3c-41a9-93c2-4b78ac201ea9",
+    "customerName": "Robert Miller",
+    "invoicenumber": "INV-007",
+    "status": "Declined",
+    "date": "2023-09-05",
+    "dueDate": "2023-10-05",
+    "amount": 1400.0,
+    "currencyType": "UAD"
+  },
+  {
+    "id": "f9efccdf-9ad4-4427-b5ef-7e2b4c96dcf3",
+    "customerName": "Laura Adams",
+    "invoicenumber": "INV-008",
+    "status": "Cancelled",
+    "date": "2023-09-02",
+    "dueDate": "2023-10-02",
+    "amount": 2200.0,
+    "currencyType": "EUR"
+  },
+  {
+    "id": "b6f684a1-7691-45e6-8dc3-470b0e6a75b6",
+    "customerName": "William Taylor",
+    "invoicenumber": "INV-009",
+    "status": "Sent",
+    "date": "2023-08-28",
+    "dueDate": "2023-09-28",
+    "amount": 1600.0,
+    "currencyType": "USD"
+  },
+  {
+    "id": "5a0a888a-92cc-4de1-82b4-66accd7c29f9",
+    "customerName": "Emily Clark",
+    "invoicenumber": "INV-010",
+    "status": "Paid",
+    "date": "2023-08-24",
+    "dueDate": "2023-09-24",
+    "amount": 1750.0,
+    "currencyType": "CAD"
+  }
+]

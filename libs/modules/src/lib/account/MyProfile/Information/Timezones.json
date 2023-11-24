@@ -1,0 +1,122 @@
+[
+  {
+    "timezone": "Pacific/Pago_Pago",
+    "offset": "-11:00",
+    "label": "(GMT-11:00) Pacific/Pago_Pago"
+  },
+  {
+    "timezone": "Pacific/Midway",
+    "offset": "-11:00",
+    "label": "(GMT-11:00) Pacific/Midway"
+  },
+  {
+    "timezone": "Pacific/Honolulu",
+    "offset": "-10:00",
+    "label": "(GMT-10:00) Pacific/Honolulu"
+  },
+  {
+    "timezone": "America/Juneau",
+    "offset": "-09:00",
+    "label": "(GMT-09:00) America/Juneau"
+  },
+  {
+    "timezone": "America/Los_Angeles",
+    "offset": "-08:00",
+    "label": "(GMT-08:00) America/Los_Angeles"
+  },
+  {
+    "timezone": "America/Denver",
+    "offset": "-07:00",
+    "label": "(GMT-07:00) America/Denver"
+  },
+  {
+    "timezone": "America/Phoenix",
+    "offset": "-07:00",
+    "label": "(GMT-07:00) America/Phoenix"
+  },
+  {
+    "timezone": "America/Chicago",
+    "offset": "-06:00",
+    "label": "(GMT-06:00) America/Chicago"
+  },
+  {
+    "timezone": "America/New_York",
+    "offset": "-05:00",
+    "label": "(GMT-05:00) America/New_York"
+  },
+  {
+    "timezone": "America/Caracas",
+    "offset": "-04:30",
+    "label": "(GMT-04:30) America/Caracas"
+  },
+  {
+    "timezone": "America/Halifax",
+    "offset": "-04:00",
+    "label": "(GMT-04:00) America/Halifax"
+  },
+  {
+    "timezone": "America/Argentina/Buenos_Aires",
+    "offset": "-03:00",
+    "label": "(GMT-03:00) America/Argentina/Buenos_Aires"
+  },
+  {
+    "timezone": "America/Sao_Paulo",
+    "offset": "-03:00",
+    "label": "(GMT-03:00) America/Sao_Paulo"
+  },
+  {
+    "timezone": "Atlantic/South_Georgia",
+    "offset": "-02:00",
+    "label": "(GMT-02:00) Atlantic/South_Georgia"
+  },
+  {
+    "timezone": "Atlantic/Azores",
+    "offset": "-01:00",
+    "label": "(GMT-01:00) Atlantic/Azores"
+  },
+  {
+    "timezone": "Europe/London",
+    "offset": "+00:00",
+    "label": "(GMT+00:00) Europe/London"
+  },
+  {
+    "timezone": "Europe/Paris",
+    "offset": "+01:00",
+    "label": "(GMT+01:00) Europe/Paris"
+  },
+  {
+    "timezone": "Europe/Athens",
+    "offset": "+02:00",
+    "label": "(GMT+02:00) Europe/Athens"
+  },
+  {
+    "timezone": "Asia/Dubai",
+    "offset": "+04:00",
+    "label": "(GMT+04:00) Asia/Dubai"
+  },
+  {
+    "timezone": "Asia/Kolkata",
+    "offset": "+05:30",
+    "label": "(GMT+05:30) Asia/Kolkata"
+  },
+  {
+    "timezone": "Asia/Hong_Kong",
+    "offset": "+08:00",
+    "label": "(GMT+08:00) Asia/Hong_Kong"
+  },
+  {
+    "timezone": "Asia/Tokyo",
+    "offset": "+09:00",
+    "label": "(GMT+09:00) Asia/Tokyo"
+  },
+  {
+    "timezone": "Pacific/Guam",
+    "offset": "+10:00",
+    "label": "(GMT+10:00) Pacific/Guam"
+  },
+  {
+    "timezone": "Pacific/Auckland",
+    "offset": "+12:00",
+    "label": "(GMT+12:00) Pacific/Auckland"
+  }
+]

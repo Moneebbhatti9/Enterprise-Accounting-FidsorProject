@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1a1f8e19-4481-4b8e-a123-9c4c98ef2021",
+    "name": "High-Performance Gaming Laptop",
+    "description": "15.6-inch laptop with NVIDIA RTX graphics, 16GB RAM, and 512GB SSD.",
+    "price": 1299.99,
+    "tax": "5%",
+    "currencyType": "USD"
+  },
+  {
+    "id": "2b2f9d28-5582-4c8f-b234-8d5d87df3032",
+    "name": "Organic Coffee Beans (1 lb)",
+    "description": "Locally sourced, fair-trade, and single-origin coffee beans for the perfect brew.",
+    "price": 12.99,
+    "tax": "0%",
+    "currencyType": "EUR"
+  },
+  {
+    "id": "3c3e7a37-6683-4d8e-c345-7e6e76cf4043",
+    "name": "Leather Crossbody Bag",
+    "description": "Handcrafted leather bag with adjustable strap and multiple compartments.",
+    "price": 89.99,
+    "tax": "5%",
+    "currencyType": "QAD"
+  },
+  {
+    "id": "4d4d6f46-7784-4e8d-d456-6f7d67de5054",
+    "name": "Fitness Tracker Watch",
+    "description": "Waterproof smartwatch with heart rate monitor, GPS, and sleep tracking features.",
+    "price": 79.99,
+    "tax": "0%",
+    "currencyType": "INY"
+  },
+  {
+    "id": "5e5f8d55-8885-4f9e-e567-5f8d8df6065a",
+    "name": "Graphic Design Services (Logo Design)",
+    "description": "Professional logo design with unlimited revisions and vector file delivery.",
+    "price": 299.99,
+    "tax": "10%",
+    "currencyType": "USD"
+  },
+  {
+    "id": "6f6b4e64-9986-4f8f-b678-4e9e76cf7076",
+    "name": "Wireless Bluetooth Earbuds",
+    "description": "Noise-canceling earbuds with 20-hour battery life and touch controls.",
+    "price": 59.99,
+    "tax": "5%",
+    "currencyType": "EUR"
+  },
+  {
+    "id": "7g7c4e73-4587-4d6f-g456-7e7c7ef8087f",
+    "name": "Home Cleaning Service (3 Hours)",
+    "description": "Experienced cleaners for a thorough home cleaning session, including supplies.",
+    "price": 99.99,
+    "tax": "10%",
+    "currencyType": "QAD"
+  },
+  {
+    "id": "8h8d5e82-5588-4g8e-h567-8d8d8ef9098g",
+    "name": "LED Smart TV (55-inch)",
+    "description": "4K UHD TV with built-in streaming apps, voice control, and HDR support.",
+    "price": 699.99,
+    "tax": "5%",
+    "currencyType": "INY"
+  },
+  {
+    "id": "9i9o6n9l9i8n9e9y0o9g0a9c9l0a9s9s",
+    "name": "Online Yoga Classes (Monthly Subscription)",
+    "description": "Access to a library of online yoga classes led by certified instructors.",
+    "price": 19.99,
+    "tax": "0%",
+    "currencyType": "USD"
+  }
+]

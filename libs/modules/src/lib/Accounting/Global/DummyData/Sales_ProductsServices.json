@@ -1,0 +1,83 @@
+[
+  {
+    "id": "1a2b3c4d5e6f7g8h9i0j1k2l3m4n5o6p7q8r9s0t1u2v3w4x5y6z",
+    "name": "Desk Lamp",
+    "type": "Sell",
+    "description": "Adjustable LED desk lamp with touch control and USB charging port.",
+    "tax": "5%",
+    "price": 29.99,
+    "currencyType": "USD"
+  },
+  {
+    "id": "2b3u4y5i6t7h8i9s0i1s2a3s4a5m6p7l8e9",
+    "name": "Coffee Maker",
+    "type": "Buy",
+    "description": "12-cup drip coffee maker with programmable timer and auto-shutoff feature.",
+    "tax": "0%",
+    "price": 59.99,
+    "currencyType": "USD"
+  },
+  {
+    "id": "3s4m5a6r7t8p9h0o1n2e3c4a5s6e7",
+    "name": "Smartphone Case",
+    "type": "Sell",
+    "description": "Protective case for iPhone 12 with shock-absorbing technology and sleek design.",
+    "tax": "5%",
+    "price": 19.99,
+    "currencyType": "USD"
+  },
+  {
+    "id": "4w5e6b7d8e9v0e1l2o3p4m5e6n7t8s",
+    "name": "Web Development Services",
+    "type": "Sell",
+    "description": "Custom web development for small businesses, including design and functionality.",
+    "tax": "10%",
+    "price": 1499.99,
+    "currencyType": "USD"
+  },
+  {
+    "id": "5o6f7f8i9c0e1d2e3s4k5",
+    "name": "Office Desk",
+    "type": "Both",
+    "description": "Modern L-shaped office desk with storage drawers and ample workspace.",
+    "tax": "5%",
+    "price": 299.99,
+    "currencyType": "USD"
+  },
+  {
+    "id": "6p7r8i9n0t1e2r3p4a5p6e7r8",
+    "name": "Printer Paper (Pack of 500)",
+    "type": "Buy",
+    "description": "High-quality printer paper suitable for laser and inkjet printers.",
+    "tax": "0%",
+    "price": 14.99,
+    "currencyType": "USD"
+  },
+  {
+    "id": "7t8a9x0c1o2n3s4u5l6t7a8t9i0o1n2s3e4r5v6i7c8e9s0",
+    "name": "Tax Consultation Services",
+    "type": "Sell",
+    "description": "Professional tax consultation and filing services for individuals and businesses.",
+    "tax": "10%",
+    "price": 249.99,
+    "currencyType": "USD"
+  },
+  {
+    "id": "8d9i0g1i2t3a4l5c6a7m8e9r0a1",
+    "name": "Digital Camera",
+    "type": "Buy",
+    "description": "Mirrorless digital camera with 24MP sensor, 4K video recording, and built-in Wi-Fi.",
+    "tax": "0%",
+    "price": 699.99,
+    "currencyType": "USD"
+  },
+  {
+    "id": "9a0c1c2o3u4n5t6i7n8g9s0o1f2t3w4a5r6e7",
+    "name": "Accounting Software (Annual Subscription)",
+    "type": "Sell",
+    "description": "Cloud-based accounting software for managing finances and tracking expenses.",
+    "tax": "5%",
+    "price": 249.99,
+    "currencyType": "USD"
+  }
+]

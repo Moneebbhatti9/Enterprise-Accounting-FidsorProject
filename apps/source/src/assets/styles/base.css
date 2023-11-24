@@ -1,0 +1,267 @@
+:root {
+  --light: 300;
+  --regular: 400;
+  --medium: 500;
+  --bold: 600;
+  --extra-bold: 700;
+  font-family: 'Be Vietnam', serif;
+  height: 100%;
+}
+
+body {
+  line-height: 1.35 !important;
+  /* font-family: 'Be Vietnam', serif; */
+  height: 100%;
+}
+
+html {
+  width: 100%;
+  height: 100%;
+}
+
+#root {
+  width: 100%;
+  height: 100%;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+h1 {
+  font-size: 22px;
+  font-weight: 600;
+}
+
+h2 {
+  font-size: 20px;
+  font-weight: 500;
+}
+
+h3 {
+  font-size: 18px;
+  font-weight: 500;
+}
+
+h4 {
+  font-size: 16px;
+  font-weight: 500;
+}
+
+h5 {
+  font-size: 14px;
+  font-weight: 500;
+}
+
+h6 {
+  font-size: 12px;
+  font-weight: 500;
+}
+
+p {
+  font-size: 14px;
+  font-weight: 400;
+}
+
+.pointer {
+  cursor: pointer;
+}
+.customizerOption {
+  display: none;
+}
+.MuiFormHelperText-root {
+  margin-left: 0px !important;
+}
+
+.css-1hsmvq9-MuiTypography-root {
+  font-size: 12px;
+}
+
+.css-1vojupv-MuiInputBase-input-MuiOutlinedInput-input {
+  font-size: 12px;
+}
+.MuiInputLabel-root {
+  font-size: 12px;
+}
+
+.MuiInputLabel-root.Mui-focused {
+  font-size: 12px;
+}
+
+.MuiSelect-select.MuiSelect-select {
+  font-size: 12px;
+  padding: 6.5px 14px;
+}
+
+.css-1192uxl-MuiTypography-root {
+  font-size: 12px;
+}
+
+.MuiLink-underlineNone {
+  font-size: 12px;
+}
+.css-vcq0jv-MuiCardContent-root {
+  padding: 15px;
+  height: 100%;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+.css-sgv04a-MuiButtonBase-root-MuiButton-root {
+  line-height: 1.5;
+}
+
+.css-jgcbt2-MuiButtonBase-root-MuiMenuItem-root,
+.css-epxb1m-MuiListSubheader-root {
+  font-size: 12px;
+}
+
+.MuiButtonBase-root {
+  font-size: 12px;
+}
+
+.css-epxb1m-MuiListSubheader-root {
+  line-height: 30px;
+}
+
+.MuiInputBase-inputMultiline {
+  font-size: 12px;
+}
+
+.css-r98sek-MuiTypography-root {
+  font-size: 12px;
+}
+
+/* .css-ht4f1g-MuiButtonBase-root-MuiListItem-root {
+  height: 30px;
+}
+.css-1qa9py0-MuiButtonBase-root-MuiListItem-root {
+  padding-left: 35px;
+  padding-right: 35px;
+}
+
+.css-ht4f1g-MuiButtonBase-root-MuiListItem-root {
+  padding-left: 18px;
+  padding-right: 18px;
+}
+.css-1fa3ayk-MuiButtonBase-root-MuiListItem-root {
+  padding-left: 12px;
+  padding-right: 12px;
+}
+.css-ht4f1g-MuiButtonBase-root-MuiListItem-root {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.css-gb79jt.mini-sidebar-collapsed {
+  padding-left: -1px;
+} */
+.css-peiodb svg {
+  height: 1em;
+}
+
+.css-tnl7hs-MuiButtonBase-root-MuiIconButton-root,
+.css-12vwpwv-MuiButtonBase-root-MuiIconButton-root {
+  width: 30px;
+  height: 30px;
+}
+.css-o5g2qp {
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+
+.lchinM {
+  flex: 0 !important;
+}
+
+@media (min-width: 1536px) {
+  .css-1uv8bk3 {
+    padding: 30px;
+  }
+}
+.css-1xv8sm6-MuiPaper-root-MuiPopover-paper-MuiMenu-paper {
+  box-shadow: none !important;
+  border: 1px solid rgba(0, 0, 0, 0.12) !important;
+}
+
+.css-4bus5t-MuiInputBase-root-MuiOutlinedInput-root {
+  background-color: white;
+}
+
+.css-157chqp-MuiInputBase-root-MuiOutlinedInput-root-MuiSelect-root {
+  background-color: white;
+}
+
+.css-11gsaoc-MuiInputBase-root-MuiOutlinedInput-root {
+  background-color: white;
+}
+
+.MuiMenuItem-root {
+  @media (max-width: 768px) {
+    min-height: 30px !important;
+  }
+}
+.mini-toggle-sidebar {
+  height: 100%;
+}
+
+.muirtl-1fa3ayk-MuiButtonBase-root-MuiListItem-root {
+  padding-right: 12px !important;
+}
+
+.muirtl-1fa3ayk-MuiButtonBase-root-MuiListItem-root {
+  padding-right: 12px !important;
+}
+.muirtl-ht4f1g-MuiButtonBase-root-MuiListItem-root {
+  padding-right: 20px !important;
+}
+
+.css-1o1qq79-MuiTypography-root {
+  font-size: 12px !important;
+}
+.muirtl-rg933i-MuiTypography-root {
+  font-size: 12px !important;
+}
+
+.css-1h51icj-MuiAutocomplete-root
+  .MuiOutlinedInput-root
+  .MuiAutocomplete-input {
+  height: 0px !important;
+  font-size: 12px !important;
+}
+.MuiAutocomplete-hasPopupIcon.css-1h51icj-MuiAutocomplete-root
+  .MuiOutlinedInput-root,
+.MuiAutocomplete-hasClearIcon.css-1h51icj-MuiAutocomplete-root
+  .MuiOutlinedInput-root {
+  height: 33px !important;
+}
+@media (min-width: 1536px) {
+  .css-1hjtnse-MuiSvgIcon-root {
+    margin-right: 20px !important;
+  }
+}
+
+@media (min-width: 600px) {
+  .css-1hjtnse-MuiSvgIcon-root {
+    margin-right: 11px;
+  }
+}
+
+.muirtl-1qa9py0-MuiButtonBase-root-MuiListItem-root {
+  padding-right: 35px;
+  padding-left: 35px;
+}
+
+.css-1kwpu1n-MuiPaper-root-MuiDialog-paper {
+  width: 50%;
+}
